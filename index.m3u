@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>  
+<head>
+
+  <script>
+                        window.location.replace("https://t.me/m3u_lovers/");
+  </script>
   <title></title>
 </head>
 <body>
-  #EXTINF: -1
+  #EXTM3U × TG:@m3u_lovers #EXTINF:-1 tvg-id="" group-title="Join
+  My Telegram m3u_lovers"
+  tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jp"
+  ,t.me/m3u_lovers https://t.me/m3u_lovers #EXTINF: -1
   tvg-name="IN: & TV HD"
   tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png"
   group-title="INDIA ENTERTAINMENT", IN: & TV HD
